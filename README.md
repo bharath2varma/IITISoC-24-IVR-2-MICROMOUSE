@@ -1,6 +1,6 @@
 # IITISoC-24-IVR-2-MICROMOUSE
 
-##GOAL
+## GOAL
 To develop a maze solving micromouse with hardware integration using stimulation
 
 People Involved : 
