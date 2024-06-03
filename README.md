@@ -11,4 +11,4 @@ Mentors:
 
 Members:
 <br>
-Sathvika V
+[Sathvika V](https://github.com/sathvika1128)
