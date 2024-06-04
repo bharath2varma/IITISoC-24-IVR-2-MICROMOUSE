@@ -11,4 +11,6 @@ Mentors:
 
 Members:
 <br>
+-N Srinivas Gopi Charan(https://github.com/Chandu-08)
 [Sathvika V](https://github.com/sathvika1128)
+
