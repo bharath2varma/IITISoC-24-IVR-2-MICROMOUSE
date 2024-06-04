@@ -11,7 +11,8 @@ Mentors:
 
 Members:
 <br>
-- [V Poorna sai reddy](https://github.com/poornareddy396)
--N Srinivas Gopi Charan(https://github.com/Chandu-08)
-[Sathvika V](https://github.com/sathvika1128)
 
+-[K Bharath Varma](https://github.com/bharath2varma)
+-[V Poorna sai reddy](https://github.com/poornareddy396)
+-[N Srinivas Gopi Charan](https://github.com/Chandu-08)
+-[Sathvika V](https://github.com/sathvika1128)
